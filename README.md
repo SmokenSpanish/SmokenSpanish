@@ -1,10 +1,27 @@
 [![Header](https://github.com/SmokenSpanish/SmokenSpanish/blob/main/assets/Jqq.gif)](https://github.com/SmokenSpanish/SmokenSpanish/blob/main/assets/Jqq.gif)
 
-About me
+## I am a beginner software engineer
 
-My stack
+Hobbies:  
+- Codding ⌨
+- Movie watching 🍿
+- Music listening/playing 🎼
+- Longboarding 🛹
 
-Follow me
+
+_**My stack**_:  
+![VsCode](https://img.shields.io/badge/-VsCode-0077B8?style=for-the-badge&logo=visualstudio)
+![Html](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-orange?style=for-the-badge&logo=Sass)
+![JS](https://img.shields.io/badge/-JS-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/-NODE-orange?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-orange?style=for-the-badge&logo=Express)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git)
+
+_**Follow me**_
+
 
 
 <!--
