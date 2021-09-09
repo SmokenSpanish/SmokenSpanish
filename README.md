@@ -25,6 +25,9 @@ _**My stack**_ :
 _**Follow me**_ :
 
 [![VK](https://img.shields.io/badge/-VK-46483E?style=for-the-badge&logo=VK)](https://vk.com/smokenspanish)
+[![Instagram](https://img.shields.io/badge/-Instagram-46483E?style=for-the-badge&logo=Instagram)](https://vk.com/https://www.instagram.com/smokenbasmax/)
+[![Telegram](https://img.shields.io/badge/-Telegram-46483E?style=for-the-badge&logo=Telegram)](https://t.me/SmokenSpanish)
+[![Facebook](https://img.shields.io/badge/-Facebook-46483E?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100008551089174)
 
 
 
